@@ -1,6 +1,9 @@
 import java.lang.IllegalArgumentException
 
-class Conta(val agencia: String, val numero: String) : Depositavel, Sacavel {
+class Conta(
+    val agencia: String, 
+    val numero: String
+) : Depositavel, Sacavel {
     
     var saldo: Double = 0.0; private set
 
