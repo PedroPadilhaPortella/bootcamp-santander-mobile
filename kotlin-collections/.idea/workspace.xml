@@ -4,13 +4,70 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a657a46d-b3ef-4a7b-8b84-3d70609fb0e7" name="Default Changelist" comment="" />
+    <list default="true" id="a657a46d-b3ef-4a7b-8b84-3d70609fb0e7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_annotations_13_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_1_4_32.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_common_1_4_32.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_jdk7_1_4_32.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_jdk8_1_4_32.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_test_1_4_32.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_test_annotations_common_1_4_32.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_test_common_1_4_32.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_test_junit_1_4_32.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mainModule.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collections-kotlin/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../poo-kotlin/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../poo-kotlin/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../poo-kotlin/fundamentos_oo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../poo-kotlin/fundamentos_oo/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../poo-kotlin/fundamentos_oo/src/main/kotlin/one/digitalinnovation/digionebank/Analista.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../poo-kotlin/fundamentos_oo/src/main/kotlin/one/digitalinnovation/digionebank/Banco.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../poo-kotlin/fundamentos_oo/src/main/kotlin/one/digitalinnovation/digionebank/Cliente.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../poo-kotlin/fundamentos_oo/src/main/kotlin/one/digitalinnovation/digionebank/ClienteTipo.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../poo-kotlin/fundamentos_oo/src/main/kotlin/one/digitalinnovation/digionebank/Conta.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../poo-kotlin/fundamentos_oo/src/main/kotlin/one/digitalinnovation/digionebank/Depositavel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../poo-kotlin/fundamentos_oo/src/main/kotlin/one/digitalinnovation/digionebank/Funcionario.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../poo-kotlin/fundamentos_oo/src/main/kotlin/one/digitalinnovation/digionebank/Gerente.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../poo-kotlin/fundamentos_oo/src/main/kotlin/one/digitalinnovation/digionebank/Logavel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../poo-kotlin/fundamentos_oo/src/main/kotlin/one/digitalinnovation/digionebank/Pessoa.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../poo-kotlin/fundamentos_oo/src/main/kotlin/one/digitalinnovation/digionebank/Sacavel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../poo-kotlin/fundamentos_oo/src/main/kotlin/one/digitalinnovation/digionebank/testes/ImprimeRelatorioFuncionario.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../poo-kotlin/fundamentos_oo/src/main/kotlin/one/digitalinnovation/digionebank/testes/TesteAutenticacao.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../poo-kotlin/fundamentos_oo/src/main/kotlin/one/digitalinnovation/digionebank/testes/TesteBanco.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../poo-kotlin/fundamentos_oo/src/main/kotlin/one/digitalinnovation/digionebank/testes/TesteCliente.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../poo-kotlin/fundamentos_oo/src/main/kotlin/one/digitalinnovation/digionebank/testes/TesteClienteTipoEnum.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../poo-kotlin/fundamentos_oo/src/main/kotlin/one/digitalinnovation/digionebank/testes/TesteConta.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../poo-kotlin/fundamentos_oo/src/main/kotlin/one/digitalinnovation/digionebank/testes/TesteFuncionarioAnalista.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../poo-kotlin/fundamentos_oo/src/main/kotlin/one/digitalinnovation/digionebank/testes/TesteFuncionarioGerente.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../poo-kotlin/out/production/fundamentos_oo/META-INF/fundamentos_oo.kotlin_module" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1uh5OvD3wEW6j07KIARmoeBiPEt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -18,6 +75,54 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Kotlin.SetKt">
+    <configuration name="DoubleArrayKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pepz.DoubleArrayKt" />
+      <module name="mainModule" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pepz.ListKt" />
+      <module name="mainModule" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OperacoesArraysKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pepz.OperacoesArraysKt" />
+      <module name="mainModule" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SetKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pepz.SetKt" />
+      <module name="mainModule" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringArrayKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pepz.StringArrayKt" />
+      <module name="mainModule" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.SetKt" />
+        <item itemvalue="Kotlin.ListKt" />
+        <item itemvalue="Kotlin.OperacoesArraysKt" />
+        <item itemvalue="Kotlin.DoubleArrayKt" />
+        <item itemvalue="Kotlin.StringArrayKt" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -29,5 +134,17 @@
       <updated>1625104955222</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
