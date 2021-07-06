@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">IMC App</string>
+    <string name="digite_sua_altura">Digite sua Altura (Ex: 1,70)</string>
+    <string name="calcular_seu_imc">Calcular seu IMC</string>
+    <string name="imc_calculator">IMC Calculator</string>
+    <string name="digite_seu_peso">Digite seu Peso (Ex: 75,6)</string>
+    <string name="seu_imc">Seu IMC:</string>
 </resources>
