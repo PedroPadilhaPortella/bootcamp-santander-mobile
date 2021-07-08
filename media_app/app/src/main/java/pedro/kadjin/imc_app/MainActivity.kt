@@ -26,10 +26,19 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun calculate() {
-        var nota1 = editTextNota1.text.toString().toFloat()
-        var nota2 = editTextNota2.text.toString().toFloat()
-        if(nota1.isNaN()) nota1 = 0.0f
-        if(nota2.isNaN()) nota2 = 0.0f
+        var nota1 = 0.0f
+        var nota2 = 0.0f
+
+        var nota1Text = editTextNota1.text.toString()
+        if(!nota1Text.isNullOrEmpty()) {
+            nota1 = nota1Text.toFloat()
+        }
+
+        var nota2Text = editTextNota2.text.toString()
+        if(!nota2Text.isNullOrEmpty()) {
+            nota1 = nota1Text.toFloat()
+        }
+
         val media = (nota1 + nota2) / 2
         resultado.text = "Sua media foi $media"
     }

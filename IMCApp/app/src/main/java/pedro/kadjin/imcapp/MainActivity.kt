@@ -1,11 +1,10 @@
 package pedro.kadjin.imcapp
 
-import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import android.support.v7.app.AppCompatActivity
 import android.widget.Button
 import android.widget.EditText
 import android.widget.TextView
-import kotlin.math.roundToLong
 
 class MainActivity : AppCompatActivity() {
 
@@ -27,12 +26,24 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun calculateIMC() {
-        var height = heightInput.text.toString().toFloat()
-        var weight = weightInput.text.toString().toFloat()
-        if(height.isNaN()) height = 0.0f
-        if(weight.isNaN()) weight = 0.0f
+        var height = heightInput.text.toString()
+        var weight = weightInput.text.toString()
 
-        val imc = (weight / (height * height))
+        var altura = 0.0f
+        var peso = 0.0f
+
+        if(!height.isNullOrEmpty()) {
+            altura = height.toFloat()
+        }
+
+        if(!weight.isNullOrEmpty()) {
+            peso = weight.toFloat()
+        }
+
+        var imc = (peso / (altura * altura))
+        if (imc.isNaN()) {
+            imc = 0.0f
+        }
 
         var status: String;
         if(imc < 18.5) {
@@ -47,6 +58,11 @@ class MainActivity : AppCompatActivity() {
             status = "Obesidade Grave"
         }
 
-        result.text = "Seu IMC: $imc \n$status"
+        if(imc.isNaN() || imc == 0.0f) {
+            result.text = "Insira valores válidos \nnos campos de altura e peso"
+        } else {
+            result.text = "Seu IMC: $imc \n$status"
+        }
+
     }
 }
