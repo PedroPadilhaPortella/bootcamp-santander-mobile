@@ -1,7 +1,11 @@
 package com.example.card_recycler_view_app
 
-class Contact (
+import android.os.Parcelable
+import kotlinx.android.parcel.Parcelize
+
+@Parcelize
+data class Contact(
     var name: String,
     var phone: String,
-    var photo: String
-)
+    var photograph: String
+) : Parcelable
