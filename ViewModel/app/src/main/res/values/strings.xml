@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ViewModel</string>
+    <string name="contador">Contador</string>
+    <string name="mostrar">Mostrar</string>
+    <string name="dados">Dados</string>
+</resources>

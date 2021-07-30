@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ContentProvider</string>
+    <string name="note_text_button">Remover</string>
+</resources>
