@@ -80,12 +80,12 @@ class NoteProvider : ContentProvider() {
     override fun delete(uri: Uri, selection: String?, selectionArgs: Array<String>?): Int {
         if(this.mUriMatcher.match(uri) == NOTES_BY_ID) {
             val db: SQLiteDatabase = dbHelper.writableDatabase
-            val linesAffect = db.delete(TABLE_NAME, _ID, arrayOf(uri.lastPathSegment))
+            val linesAffect = db.delete(TABLE_NAME, "$_ID=?", arrayOf(uri.lastPathSegment))
             db.close()
             context?.contentResolver?.notifyChange(uri, null)
             return linesAffect
         } else {
-            throw UnsupportedSchemeException("URI invalida para executar a delecao")
+            throw UnsupportedSchemeException("URI inválida para executar a delecao")
         }
     }
 
