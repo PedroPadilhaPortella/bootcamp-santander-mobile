@@ -1,2 +1,2 @@
-rootProject.name = "ContentProvider"
 include ':app'
+rootProject.name = "ApplicationContentProvider"
