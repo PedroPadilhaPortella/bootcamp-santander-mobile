@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FotosApp</string>
+    <string name="image_selection">Imagem a ser Selecionada pelo Usuário</string>
+    <string name="selecione_uma_imagem">Selecione uma Imagem</string>
+</resources>

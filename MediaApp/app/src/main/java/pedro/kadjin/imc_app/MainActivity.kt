@@ -36,7 +36,7 @@ class MainActivity : AppCompatActivity() {
 
         var nota2Text = editTextNota2.text.toString()
         if(!nota2Text.isNullOrEmpty()) {
-            nota1 = nota1Text.toFloat()
+            nota2 = nota2Text.toFloat()
         }
 
         val media = (nota1 + nota2) / 2
