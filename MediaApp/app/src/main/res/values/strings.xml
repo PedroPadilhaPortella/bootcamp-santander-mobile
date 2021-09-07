@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">IMC App</string>
+    <string name="app_name">MediaCalculator</string>
     <string name="nota_1">Nota 1</string>
     <string name="nota_2">Nota 2</string>
     <string name="calcular_media">Cacular Média</string>

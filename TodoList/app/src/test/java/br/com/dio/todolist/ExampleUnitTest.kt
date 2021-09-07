@@ -1,4 +1,4 @@
-package pedro.kadjin.todolist
+package br.com.dio.todolist
 
 import org.junit.Test
 
