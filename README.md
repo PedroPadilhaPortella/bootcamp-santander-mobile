@@ -38,4 +38,4 @@ Repositório com todos os projetos do Bootcamp Santander Mobile
 
 [Collections em Kotlin](https://github.com/PedroPadilhaPortella/bootcamp-santander-mobile/tree/main/kotlin-collections): Conceitos de Collections em Kotlin
 
-[](https://github.com/PedroPadilhaPortella/bootcamp-santander-mobile/tree/main/kotlin-poo): Conceitos de POO em Kotlin
+[Kotlin POO](https://github.com/PedroPadilhaPortella/bootcamp-santander-mobile/tree/main/kotlin-poo): Conceitos de POO em Kotlin
