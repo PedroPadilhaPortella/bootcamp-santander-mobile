@@ -34,8 +34,8 @@ Repositório com todos os projetos do Bootcamp Santander Mobile
 
 [ViewModel](https://github.com/PedroPadilhaPortella/bootcamp-santander-mobile/tree/main/ViewModel): Praticando conceitos sobre ViewModel para Reatividade no Layout
 
-(Introdução ao Kotlin)[https://github.com/PedroPadilhaPortella/bootcamp-santander-mobile/tree/main/introducao-kotlin]: Conceitos da Linguagem Kotlin
+[Introdução ao Kotlin](https://github.com/PedroPadilhaPortella/bootcamp-santander-mobile/tree/main/introducao-kotlin): Conceitos da Linguagem Kotlin
 
-(Collections em Kotlin)[https://github.com/PedroPadilhaPortella/bootcamp-santander-mobile/tree/main/kotlin-collections]: Conceitos de Collections em Kotlin
+[Collections em Kotlin](https://github.com/PedroPadilhaPortella/bootcamp-santander-mobile/tree/main/kotlin-collections): Conceitos de Collections em Kotlin
 
 [](https://github.com/PedroPadilhaPortella/bootcamp-santander-mobile/tree/main/kotlin-poo): Conceitos de POO em Kotlin
