@@ -6,13 +6,13 @@ Repositório com todos os projetos do Bootcamp Santander Mobile
 
 [Agenda](https://github.com/PedroPadilhaPortella/bootcamp-santander-mobile/tree/main/Agenda): Como usar o recurso nativo de Acesso à Agenda do Dispositivo
 
-[ApplicationNotification](https://github.com/PedroPadilhaPortella/bootcamp-santander-mobile/tree/main/ApplicationNotification): Usando o rescuros nativo de Notificações
+[NotificationApp](https://github.com/PedroPadilhaPortella/bootcamp-santander-mobile/tree/main/NotificationApp): Usando o recursos nativos de Notificações
 
-[ApplicationWorkApi](https://github.com/PedroPadilhaPortella/bootcamp-santander-mobile/tree/main/ApplicationNotification): Como usar o recurso nativo de Acesso à Agenda do Dispositivo
+[ApplicationWorkApi](https://github.com/PedroPadilhaPortella/bootcamp-santander-mobile/tree/main/ApplicationNotification): 
 
-[ContactApp](): Sistema de Gerenciamento de Contatos pessoais usando SQLite
+[ContactApp](https://github.com/PedroPadilhaPortella/bootcamp-santander-mobile/tree/main/ContactApp): Listando Contatos usando RecyclerView e outros componentes de layout nativos
 
-[ContatosProvider](https://github.com/PedroPadilhaPortella/bootcamp-santander-mobile/tree/main/ContatosProvider): Usando o rescuros nativo da lista de Contatos do Dispositivo
+[ContatosProvider](https://github.com/PedroPadilhaPortella/bootcamp-santander-mobile/tree/main/ContatosProvider): Usando o recursos nativos da Lista de Contatos do Dispositivo
 
 [ContentProvider](https://github.com/PedroPadilhaPortella/bootcamp-santander-mobile/tree/main/ContentProvider) e [ContentProviderClient](https://github.com/PedroPadilhaPortella/bootcamp-santander-mobile/tree/main/ContentProviderClient): Compartilhamento de dados entre aplicações usando ContentProviders
 
@@ -24,7 +24,7 @@ Repositório com todos os projetos do Bootcamp Santander Mobile
 
 [IMCApp](https://github.com/PedroPadilhaPortella/bootcamp-santander-mobile/tree/main/IMCApp): Calculadora de IMC
 
-[ListContactApp](https://github.com/PedroPadilhaPortella/bootcamp-santander-mobile/tree/main/ListContactApp):
+[ListContactApp](https://github.com/PedroPadilhaPortella/bootcamp-santander-mobile/tree/main/ListContactApp): Sistema de Gerenciamento de Contatos pessoais usando SQLite
 
 [MapsApp](https://github.com/PedroPadilhaPortella/bootcamp-santander-mobile/tree/main/MapsApp): Acessando o recurso nativo de Mapas e GPS do dispositivo
 
@@ -32,4 +32,10 @@ Repositório com todos os projetos do Bootcamp Santander Mobile
 
 [ToDoList](https://github.com/PedroPadilhaPortella/bootcamp-santander-mobile/tree/main/ToDoList): ToDoList - Mantenha registro de todas as suas tarefas diárias
 
-[ViewModel](https://github.com/PedroPadilhaPortella/bootcamp-santander-mobile/tree/main/ViewModel):
+[ViewModel](https://github.com/PedroPadilhaPortella/bootcamp-santander-mobile/tree/main/ViewModel): Praticando conceitos sobre ViewModel para Reatividade no Layout
+
+(Introdução ao Kotlin)[https://github.com/PedroPadilhaPortella/bootcamp-santander-mobile/tree/main/introducao-kotlin]: Conceitos da Linguagem Kotlin
+
+(Collections em Kotlin)[https://github.com/PedroPadilhaPortella/bootcamp-santander-mobile/tree/main/kotlin-collections]: Conceitos de Collections em Kotlin
+
+[](https://github.com/PedroPadilhaPortella/bootcamp-santander-mobile/tree/main/kotlin-poo): Conceitos de POO em Kotlin
